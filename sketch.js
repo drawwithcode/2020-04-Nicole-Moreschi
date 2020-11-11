@@ -1,9 +1,7 @@
 
-
-
 // --------------------------------------------------------------------
 //
-// IMPORTANT!: Opent it with Safari (since with Chrome it works strange)
+// IMPORTANT!: Open it with Safari (since with Chrome it works strange)
 //
 // --------------------------------------------------------------------
 
