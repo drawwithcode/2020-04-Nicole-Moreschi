@@ -1,4 +1,13 @@
 
+
+
+// --------------------------------------------------------------------
+//
+// IMPORTANT!: Opent it with Safari (since with Chrome it works strange)
+//
+// --------------------------------------------------------------------
+
+
 let sfumatura;
 
 var fillColor = '#d5d0d3';
